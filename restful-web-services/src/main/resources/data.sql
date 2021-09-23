@@ -1,3 +1,3 @@
-insert into User values(1, SYSDATE(),'AB');
-insert into USER values(2, SYSDATE(),'ST');
-insert into USER values(3, SYSDATE(),'VK');
+insert into User values(1001, SYSDATE(),'AB');
+insert into USER values(1002, SYSDATE(),'ST');
+insert into USER values(1003, SYSDATE(),'VK');
